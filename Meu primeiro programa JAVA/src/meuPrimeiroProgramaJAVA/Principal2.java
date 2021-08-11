@@ -21,6 +21,8 @@ public class Principal2 { // Classe que mantém o método principal.
 		String nome = in.nextLine();
 		System.out.printf("Olá %s!\n", nome);
 		
+		// Comentário para teste para do github..
+		
 
 	}
 
