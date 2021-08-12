@@ -26,10 +26,18 @@ public class Principal2 { // Classe que mantém o todo principal.
 		Integer idade = in.nextInt();
 		
 		System.out.printf("%d! Puxa! Como você é jovem!", idade);
+		print ("Olá teste");
 		
-		// Comentário para teste do github.
+		// Commenter para teste do github.
+		
+		// mais um comentário de teste
 		
 
 	}
+
+private static void print(String string) {
+	// TODO Auto-generated method stub
+	
+}
 
 }
